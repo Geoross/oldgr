@@ -19,5 +19,3 @@ gallery:
 ---
 
 {% include_relative bio-bezos.md %}
-
-{% include slides.html caption="Εικόνες για την βιογραφία του Jeff Bezos" %}
